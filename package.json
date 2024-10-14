@@ -1,6 +1,7 @@
 {
   "name": "oss-attendance-monitoring",
   "version": "0.1.0",
+  "homepage": "https://haniel023.github.io/oss-attendance-monitoring",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
